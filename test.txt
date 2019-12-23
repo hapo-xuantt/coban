@@ -1,3 +1,3 @@
 Hello world
 lalaconf
-conlict
+conlic
