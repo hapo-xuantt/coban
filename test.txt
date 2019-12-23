@@ -1,2 +1,7 @@
 Hello world
+<<<<<<< HEAD
 lalaCon
+=======
+lalaconf
+conlic
+>>>>>>> mergePull
